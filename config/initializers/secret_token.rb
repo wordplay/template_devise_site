@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-TemplateBootstrapSite::Application.config.secret_key_base = 'a4ecef447b26f8e8f43db3425305a6163ddb41f25e94e63c315a2721468a41a862f70b69f433f77f15fe56af1daebb4ba0c985149a45bf14923a5068d6736134'
+TemplateDeviseSite::Application.config.secret_key_base = 'a4ecef447b26f8e8f43db3425305a6163ddb41f25e94e63c315a2721468a41a862f70b69f433f77f15fe56af1daebb4ba0c985149a45bf14923a5068d6736134'
